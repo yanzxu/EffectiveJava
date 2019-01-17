@@ -1,5 +1,5 @@
 package main.java.chapter1.staticfactory;
 
-public interface Prodiver {
+public interface Provider {
     Service newService();
 }
